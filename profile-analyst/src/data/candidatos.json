@@ -1,0 +1,100 @@
+[
+  {
+    "nome": "Ana Souza",
+    "linkedin": "https://linkedin.com/in/ana-souza",
+    "skills": ["react", "node.js", "sql", "aws"],
+    "experiencia": 4,
+    "escolaridade": "Graduação em Computação"
+  },
+  {
+    "nome": "Carlos Lima",
+    "linkedin": "https://linkedin.com/in/carlos-lima",
+    "skills": ["vue", "docker", "graphql"],
+    "experiencia": 2,
+    "escolaridade": "Graduação em Engenharia de Software"
+  },
+  {
+    "nome": "Marina Torres",
+    "linkedin": "https://linkedin.com/in/marina-torres",
+    "skills": ["react", "typescript", "aws"],
+    "experiencia": 3,
+    "escolaridade": "Mestrado em Ciência de Dados"
+  },
+  {
+    "nome": "Pedro Alves",
+    "linkedin": "https://linkedin.com/in/pedro-alves",
+    "skills": ["node.js", "express", "mongodb", "docker"],
+    "experiencia": 5,
+    "escolaridade": "Graduação em Sistemas de Informação"
+  },
+  {
+    "nome": "Fernanda Costa",
+    "linkedin": "https://linkedin.com/in/fernanda-costa",
+    "skills": ["python", "django", "postgresql", "aws"],
+    "experiencia": 6,
+    "escolaridade": "Pós-graduação em Engenharia de Software"
+  },
+  {
+    "nome": "Rafael Pereira",
+    "linkedin": "https://linkedin.com/in/rafael-pereira",
+    "skills": ["java", "spring", "sql", "kubernetes"],
+    "experiencia": 8,
+    "escolaridade": "Graduação em Ciência da Computação"
+  },
+  {
+    "nome": "Juliana Martins",
+    "linkedin": "https://linkedin.com/in/juliana-martins",
+    "skills": ["react", "next.js", "typescript", "css"],
+    "experiencia": 3,
+    "escolaridade": "Graduação em Design Digital"
+  },
+  {
+    "nome": "Lucas Oliveira",
+    "linkedin": "https://linkedin.com/in/lucas-oliveira",
+    "skills": ["golang", "docker", "grpc", "aws"],
+    "experiencia": 4,
+    "escolaridade": "Graduação em Engenharia da Computação"
+  },
+  {
+    "nome": "Marcos Silva",
+    "linkedin": "https://linkedin.com/in/marcos-silva",
+    "skills": ["php", "laravel", "mysql"],
+    "experiencia": 7,
+    "escolaridade": "Graduação em Sistemas de Informação"
+  },
+  {
+    "nome": "Beatriz Ramos",
+    "linkedin": "https://linkedin.com/in/beatriz-ramos",
+    "skills": ["data analysis", "python", "pandas", "sql"],
+    "experiencia": 2,
+    "escolaridade": "Mestrado em Estatística"
+  },
+  {
+    "nome": "Thiago Nunes",
+    "linkedin": "https://linkedin.com/in/thiago-nunes",
+    "skills": ["devops", "terraform", "aws", "jenkins"],
+    "experiencia": 5,
+    "escolaridade": "Graduação em Engenharia de Computação"
+  },
+  {
+    "nome": "Camila Rodrigues",
+    "linkedin": "https://linkedin.com/in/camila-rodrigues",
+    "skills": ["ux", "research", "product", "figma"],
+    "experiencia": 4,
+    "escolaridade": "Pós-graduação em UX"
+  },
+  {
+    "nome": "Eduardo Gomes",
+    "linkedin": "https://linkedin.com/in/eduardo-gomes",
+    "skills": ["machine learning", "python", "tensorflow", "aws"],
+    "experiencia": 6,
+    "escolaridade": "Doutorado em Inteligência Artificial"
+  },
+  {
+    "nome": "Larissa Freitas",
+    "linkedin": "https://linkedin.com/in/larissa-freitas",
+    "skills": ["android", "kotlin", "rxjava"],
+    "experiencia": 3,
+    "escolaridade": "Graduação em Engenharia de Software"
+  }
+]
